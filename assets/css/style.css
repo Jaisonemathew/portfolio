@@ -751,6 +751,7 @@ section {
   width: 64px;
   height: 64px;
   border-radius: 5px;
+  background: #18d26e;
   transition: all .3s ease-out 0s;
   display: flex;
   align-items: center;
@@ -794,7 +795,6 @@ section {
 }
 
 .services .icon-box:hover {
-  background: #18d26e;
   border-color: #18d26e;
 }
 
