@@ -1,7 +1,7 @@
 # Personal Portfolio site
 This is a personal portfolio site that i built to showcase my works that are done and are to be done in the future. I built this static website using CSS,HTML and some Javascript
 
-You can view this site live at https://jaisonemathew.github.io/portfolio/
+You can view this site live at https://jaisonemathew.me/
 
 # Screenshots
 ![Screenshot](/assets/img/scree/1.png?raw=true "Screenshot")
