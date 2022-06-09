@@ -8,6 +8,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+/*darkscrollbar*/
+:root {
+    color-scheme: dark;
+}
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -15,10 +19,7 @@ body {
   color: #fff;
 }
 
-/*darkscrollbar*/
-:root {
-    color-scheme: dark;
-}
+
 
 a {
   color: #18d26e;
