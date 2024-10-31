@@ -717,3 +717,9 @@ section {
     padding-right: 20px 15px;
   }
 }
+.carousel-img {
+  max-width: 1693px;
+  max-height: 1024px;
+  object-fit: cover; /* This ensures the image covers the area without distortion */
+  width: 100%; /* Ensures the image scales to fit the container */
+}
