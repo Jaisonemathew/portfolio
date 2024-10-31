@@ -21,12 +21,12 @@ body {
 }
 
 a {
-  color: #18d26e;
+  color: #536493;
   text-decoration: none;
 }
 
 a:hover {
-  color: #18d26e;
+  color: #536493;
   text-decoration: none;
 }
 
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #18d26e;
+  background: #536493;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -59,7 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #18d26e;
+  background: #536493;
   color: #fff;
 }
 
@@ -123,7 +123,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #18d26e;
+  background: #536493;
   color: #fff;
   text-decoration: none;
 }
@@ -183,7 +183,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover i, .nav-menu .active i, .nav-menu .active:focus i, .nav-menu li:hover > a i {
-  color: #18d26e;
+  color: #536493;
 }
 
 /* Mobile Navigation */
@@ -196,7 +196,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
-  background-color: #18d26e;
+  background-color: #536493;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -262,7 +262,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #18d26e;
+  border-bottom: 3px solid #536493;
 }
 
 @media (min-width: 1024px) {
@@ -360,7 +360,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #4ceb95;
+  background: #536493;
   margin: 4px 10px;
 }
 
@@ -379,7 +379,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #18d26e;
+  color: #7AB2D3;
 }
 
 .about .content ul {
@@ -400,7 +400,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #18d26e;
+  color: #536493;
   line-height: 0;
 }
 
@@ -440,7 +440,7 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #18d26e;
+  color: #7AB2D3;
   margin-bottom: 10px;
 }
 
@@ -491,7 +491,7 @@ section {
   width: 64px;
   height: 64px;
   border-radius: 5px;
-  background: #18d26e;
+  background: #536493;
   transition: all .3s ease-out 0s;
   display: flex;
   align-items: center;
@@ -535,7 +535,7 @@ section {
 }
 
 .services .icon-box:hover {
-  border-color: #18d26e;
+  border-color: #536493;
 }
 
 .services .icon-box:hover .icon {
@@ -543,7 +543,7 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #18d26e;
+  color: #536493;
 }
 
 .services .icon-box:hover .icon::before {
@@ -633,11 +633,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #18d26e;
+  border: 1px solid #536493;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #18d26e;
+  background-color: #536493;
 }
 /*--------------------------------------------------------------
 # Breadcrumbs
